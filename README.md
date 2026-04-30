@@ -1,4 +1,5 @@
 # Projeto1_EC48B_C81_ProgramacaoWebBackEnd
+# Aluno: Pedro Henrique Tagata Ferreira RA:1884476
 Projeto 1 da disciplina de Programação Web Back-End (EC48B-C81)
 
 Biblioteca Node.js para gerenciamento de e-commerce (inspirado no AliExpress) utilizando **MongoDB** como banco de dados, com validação de campos obrigatórios e sistema de logs.
