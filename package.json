@@ -1,0 +1,16 @@
+{
+  "name": "Projeto1 e-commerce",
+  "version": "1.0.0",
+  "description": "Biblioteca de acesso ao MongoDB para e-commerce (AliExpress)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["ecommerce", "mongodb", "crud", "nodejs"],
+  "author": "Pedro Henrique Tagata Ferreira"
+}
